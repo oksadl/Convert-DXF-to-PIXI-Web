@@ -1,4 +1,4 @@
-import cloneDeep from 'lodash/cloneDeep'
+import cloneDeep from 'loadsh/cloneDeep'
 
 import logger from './util/logger'
 
